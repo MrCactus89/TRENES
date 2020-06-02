@@ -642,3 +642,25 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.02-12.31.45:532][372]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
 [2020.06.02-12.31.45:532][372]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
 [2020.06.02-12.31.45:532][372]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.06.02-12.33.42:046][937]Cmd: TRANSACTION UNDO
+[2020.06.02-12.33.42:046][937]LogEditorTransaction: Undo Crear actores
+[2020.06.02-12.33.42:301][949]Cmd: TRANSACTION UNDO
+[2020.06.02-12.33.42:301][949]LogEditorTransaction: Undo Crear actores
+[2020.06.02-12.33.42:522][959]Cmd: TRANSACTION UNDO
+[2020.06.02-12.33.42:523][959]LogEditorTransaction: Undo Crear actores
+[2020.06.02-12.33.42:680][968]Cmd: TRANSACTION UNDO
+[2020.06.02-12.33.42:680][968]LogEditorTransaction: Undo Crear actores
+[2020.06.02-12.33.42:863][979]Cmd: TRANSACTION UNDO
+[2020.06.02-12.33.42:863][979]LogEditorTransaction: Undo Crear actores
+[2020.06.02-12.33.43:047][990]Cmd: TRANSACTION UNDO
+[2020.06.02-12.33.43:047][990]LogEditorTransaction: Undo Crear actores
+[2020.06.02-12.33.43:247][  2]Cmd: TRANSACTION UNDO
+[2020.06.02-12.33.43:247][  2]LogEditorTransaction: Undo Crear actores
+[2020.06.02-12.33.43:430][ 13]Cmd: TRANSACTION UNDO
+[2020.06.02-12.33.43:430][ 13]LogEditorTransaction: Undo Crear actores
+[2020.06.02-12.33.43:613][ 24]Cmd: TRANSACTION UNDO
+[2020.06.02-12.33.43:614][ 24]LogEditorTransaction: Undo Crear actores
+[2020.06.02-12.33.43:831][ 37]Cmd: TRANSACTION UNDO
+[2020.06.02-12.33.43:831][ 37]LogEditorTransaction: Undo Crear actores
+[2020.06.02-12.33.44:013][ 48]Cmd: TRANSACTION UNDO
+[2020.06.02-12.33.44:013][ 48]LogEditorTransaction: Undo Crear actores
